@@ -1,0 +1,17 @@
+{
+  "name": "Owl house",
+  "description": "Owl is the capital of GB",
+  "start_url": "/",
+  "lang": "ru-RU",
+  "display": "minimal-ui",
+  "icons": [
+    {
+      "src": "images/ico/android-icon-192x192.png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "images/ico/favicon-32x32.png",
+      "sizes": "32x32"
+    }
+  ]
+}
